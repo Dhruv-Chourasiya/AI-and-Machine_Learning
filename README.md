@@ -31,6 +31,30 @@ I have just started my journey and completed the following topics in Python:
 - *Defining and Calling Functions*
 - *Parameters & Return Values*
 
+## Day 3 Progress
+
+Today's focus was on diving deeper into Python programming. Here's what I covered:
+
+### ✅ Functions (Continued):
+- *Function Parameters & Return Types*
+- *Function Scope & Lifetime*
+- *Recursive Functions*
+- *Docstrings for Documentation*
+
+### ✅ Data Structures:
+- **Lists**
+  - *Creating & Accessing Lists*
+  - *List Methods (append, remove, insert, sort, reverse, etc.)*
+- **Tuples**
+  - *Tuple Creation & Access*
+  - *Tuple Methods*
+
+### ✅ Python Strings:
+- *Formatted Strings (f-strings)*
+
+---
+
+
 ## Why This Repo?
 
 - To track my daily learning progress
