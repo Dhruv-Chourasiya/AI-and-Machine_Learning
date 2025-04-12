@@ -49,10 +49,32 @@ Today's focus was on diving deeper into Python programming. Here's what I covere
   - *Tuple Creation & Access*
   - *Tuple Methods*
 
+
 ### ✅ Python Strings:
 - *Formatted Strings (f-strings)*
 
 ---
+
+Day 4 Progress
+Today's learning included exploring more powerful data structures and error handling:
+
+✅ Sets:
+Creating Sets
+
+Set Methods (add, remove, union, intersection, difference, etc.)
+
+✅ Dictionaries:
+Creating & Accessing Dictionaries
+
+Dictionary Methods (get, keys, values, items, update, etc.)
+
+✅ Control Flow (Advanced):
+for Loop using if-else Statements
+
+✅ Error Handling:
+try-except Blocks
+
+finally Statement
 
 
 ## Why This Repo?
